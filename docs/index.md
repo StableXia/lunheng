@@ -3,20 +3,18 @@ hero:
   title: Site
   description: 积累
   actions:
-    - text: Hello
-      link: /
-    - text: World
-      link: /
+    - text: 引言
+      link: /introduction
 features:
-  - title: Hello
+  - title: Persevere
     emoji: 💎
-    description: Put hello description here
-  - title: World
+    description: 持之以恒
+  - title: Over Time
     emoji: 🌈
-    description: Put world description here
-  - title: '!'
+    description: 日就月将
+  - title: 'Butterfly'
     emoji: 🚀
-    description: Put ! description here
+    description: 破茧成蝶
 ---
 
 lunheng
